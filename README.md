@@ -7,7 +7,7 @@
 <h2 align="center"> Eu sou o Edivane!</h2>
 
 <p align="center">
-  <i>💡 Desenvolvedor e estudante em evolução contínua.</i>
+  <i>💡 Estudante em evolução contínua.</i>
 </p>
 
 ---
