@@ -1,5 +1,4 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
-
 <h2 align="center"> Eu sou o Edivane!</h2>
 
 <p align="center">
