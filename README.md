@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW93OWw2aXh0eXlsdTZia2ZneW8wbXk1cnptNDJvczRseGN6dXFteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" width="220px" alt="Pixel Art Cat Jump" />
-</p>
-
 <h2 align="center"> Eu sou o Edivane!</h2>
 
 <p align="center">
